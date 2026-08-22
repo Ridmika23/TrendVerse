@@ -6,7 +6,7 @@
 
 **Live Website:** [TrendVerse – Live Demo](https://trend-verse-mocha.vercel.app/)
 
-**GitHub Repository:** [TrendVerse on GitHub](https://github.com/Ridmika23/TrendVerse?utm_source=chatgpt.com)
+**GitHub Repository:** [TrendVerse on GitHub](https://github.com/Ridmika23/TrendVerse/tree/main)
 
 ---
 
