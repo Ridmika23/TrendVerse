@@ -210,6 +210,10 @@ main {
   mix-blend-mode: multiply; /* Optional: helps products blend nicely on light glass */
 }
 
+[data-theme='dark'] .product-img {
+  mix-blend-mode: normal;
+}
+
 .product-card:hover .product-img {
   transform: scale(1.05);
 }
